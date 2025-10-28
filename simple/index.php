@@ -14,7 +14,7 @@ include 'db.php';
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple PHP CRUD</title>
+    <title>hard PHP CRUD</title>
     <a href="logout.php">Logout</a>
     <style>
         body { font-family: Arial; margin: 30px; }
